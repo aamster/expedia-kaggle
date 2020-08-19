@@ -6,6 +6,8 @@ The following models have been implemented:
 2) Collaborative filtering
 3) Supervised learning
 
+## Results
+
 The evaluation metric was MAP@5. The supervised learning method performed significantly better than the others, presumably because it used recency to calculate historical user/hotel interactions, and incorporated additional features.
 
 ## Project layout
