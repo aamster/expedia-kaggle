@@ -20,6 +20,3 @@ The evaluation metric was MAP@5. The supervised learning method performed signif
 
 ## Blog post
 https://medium.com/@cosmos1990/building-a-hotel-recommendation-engine-6b9a2b047515
-
-## Code Repository 
-https://github.com/aamster/expedia-kaggle
